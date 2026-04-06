@@ -1,29 +1,34 @@
-### 👋 Hi, I’m Ashish
+## 👋 Intro
+
 I build and analyze AI systems beyond the demo layer.
 
-**Currently focused on**:
-- RAG system reliability & debugging
-- Retrieval quality & failure modes
-- AI observability
+Focused on improving the reliability and debuggability of Retrieval-Augmented Generation (RAG) systems.
 
-**Background**:
-PM @ Protegrity | ex-Lead Engineer
-_I’m interested in ... Deep Learning, IOT, Space, Quantum, and all that links everything together_
+Technical PM @ Protegrity (AI Security) | ex-Lead Engineer
 
-### 🚀 What I’m Building
- - Vector-Flow → RAG Debugging System
- - RAG Eval Lab → Understanding failure modes
- - AI System Design → Architecture deep dives
 
-_I’m looking to collaborate on ... ML/AI opportunities_
+## 🚀 What I'm Building
 
-### 🧠 What I Care About
-- “Why did the model fail?” > “Look it works”
-- Systems > APIs
-- Trade-offs > hype
+- **Vector-Flow (RAG Debugger)**  
+  Analyzing why retrieval fails — not just whether it works
 
-_📫 How to reach me ...  ash8690@gmail.com_
-<!---
-Aash90/Aash90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **RAG Evaluation Lab**  
+  Experiments on retrieval quality, hallucination, and prompt sensitivity
+
+- **AI System Design Notes**  
+  Trade-offs in building scalable and reliable LLM systems
+
+
+## 🧠 What I Care About
+
+- Understanding failure modes > “it works on my prompt”
+- Retrieval quality as the bottleneck in RAG systems
+- Lack of observability in LLM pipelines
+- Real-world trade-offs: latency, cost, accuracy
+
+
+## 🔍 Current Focus
+
+- RAG failure analysis and debugging
+- Chunking strategies, embeddings, and retrieval behavior
+- LLM observability and evaluation frameworks
